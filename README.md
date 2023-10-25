@@ -13,7 +13,7 @@ First proyect from Frontend Mentor. Using basic skills create a QR-Code card wit
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://chinchilla15.github.io/qr-code/)
+- Live Site URL: [QR Code](https://chinchilla15.github.io/qr-code/)
 
 ### Built with
 
